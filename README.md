@@ -16,3 +16,4 @@ I was born in the state of Paraná in 2007, grew up, and still live here. I stud
 - 💻 Everything on my Git is in Portuguese, but always easy to translate, as they are basic activities
 - 👨‍💼 Pronouns: he/him
 - 🎤 Favorite artist: Taylor Swift
+- 🎵 Favorite song: This Is Why We Can’t Have Nice Things ([Spotify](https://open.spotify.com/track/07NxDD1iKCHbAldceD7QLP?autoplay=true)) ([Apple Music](https://music.apple.com/br/album/this-is-why-we-cant-have-nice-things/1445765846?i=1445766358))
