@@ -18,6 +18,15 @@ I was born in the state of Paraná in 2007, grew up, and still live here. I stud
 - 🎤 Favorite artist: Taylor Swift
 - 🎵 Favorite song: This Is Why We Can’t Have Nice Things ([Spotify](https://open.spotify.com/track/07NxDD1iKCHbAldceD7QLP?autoplay=true)) ([Apple Music](https://music.apple.com/br/album/this-is-why-we-cant-have-nice-things/1445765846?i=1445766358))
 
+## Esperanto 🪐
+Naskiĝis mi sur la tero, la tria planedo de la sunsistemo, en la ŝtato Paraná en 2007, kreskis kaj ankoraŭ loĝas ĉi tie. Mi studas en unu el la plej bonaj publikaj lernejoj de la ŝtato, aldone. Mi nun havas 16 jarojn (17 en kelkaj monatoj), kaj mi estas en la dua jaro de mezlernejo. Mia angla estas intermeza, sed mi lernas ĉiutage.
+
+- 📚 Studento de Teknika Evoluo de Sistemaroj
+- 💻 Ĉio en mia Git estas en portugala, sed ĉiam facile tradukebla, ĉar ili estas bazaj agadoj
+- 👨‍💼 Pronomoj: li/lia
+- 🎤 Plej ŝatata artisto: Taylor Swift
+- 🎵 Plej ŝatata kanto: This Is Why We Can’t Have Nice Things ([Spotify](https://open.spotify.com/track/07NxDD1iKCHbAldceD7QLP?autoplay=true)) ([Apple Music](https://music.apple.com/br/album/this-is-why-we-cant-have-nice-things/1445765846?i=1445766358))
+
 ## Español 🇪🇸
 Nací en el estado de Paraná en 2007, crecí y todavía vivo aquí. Estudio en una de las mejores escuelas públicas del estado, por cierto. Actualmente tengo 16 años (17 en unos meses), estoy en el segundo año de la escuela secundaria, y mi inglés es intermedio, pero aprendo todos los días.
 
