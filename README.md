@@ -53,3 +53,21 @@ Ich wurde 2007 im Bundesstaat Paraná geboren, bin hier aufgewachsen und lebe im
 - 👨‍💼 Pronomen: er/ihn
 - 🎤 Lieblingskünstler: Taylor Swift
 - 🎵 Lieblingslied: This Is Why We Can’t Have Nice Things ([Spotify](https://open.spotify.com/track/07NxDD1iKCHbAldceD7QLP?autoplay=true)) ([Apple Music](https://music.apple.com/br/album/this-is-why-we-cant-have-nice-things/1445765846?i=1445766358))
+
+### 한국어 🇰🇷
+2007년 파라나주에서 태어나 자라 현재도 여기에서 살고 있습니다. 이 주의 최고의 공립 학교 중 하나에서 공부하고 있습니다. 현재 16세입니다(몇 달 후 17세), 고등학교 2학년입니다. 영어는 중급 수준이지만 매일 배우고 있습니다.
+
+- 📚 시스템 개발 기술 학생
+- 💻 제 Git에 있는 모든 것은 포르투갈어로 되어 있지만 기본적인 활동이기 때문에 항상 번역하기 쉽습니다.
+- 👨‍💼 대명사: 그/그의
+- 🎤 좋아하는 아티스트: Taylor Swift
+- 🎵 좋아하는 노래: This Is Why We Can’t Have Nice Things ([Spotify](https://open.spotify.com/track/07NxDD1iKCHbAldceD7QLP?autoplay=true)) ([Apple Music](https://music.apple.com/br/album/this-is-why-we-cant-have-nice-things/1445765846?i=1445766358))
+
+### 日本語 🇯🇵
+2007年にパラナ州で生まれ、育ち、今もここに住んでいます。 この州の最高の公立学校の一つで学んでいます。 現在16歳です（数ヶ月後に17歳になります）し、高校2年生です。 英語は中級ですが、毎日学んでいます。
+
+- 📚 システム開発技術の学生
+- 💻 私のGitにあるすべてはポルトガル語ですが、基本的な活動なので常に翻訳しやすいです。
+- 👨‍💼 代名詞: 彼/彼の
+- 🎤 お気に入りのアーティスト: Taylor Swift
+- 🎵 お気に入りの曲: This Is Why We Can’t Have Nice Things ([Spotify](https://open.spotify.com/track/07NxDD1iKCHbAldceD7QLP?autoplay=true)) ([Apple Music](https://music.apple.com/br/album/this-is-why-we-cant-have-nice-things/1445765846?i=1445766358))
