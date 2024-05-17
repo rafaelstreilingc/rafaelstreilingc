@@ -10,7 +10,7 @@ Atualmente tenho 16 anos (17 em alguns meses), estou atualmente no segundo ano d
 - 👨‍💼 Pronomes: ele/dele
 - 🌎 Brasileiro
 - 🎤 Artista favorito: Taylor Swift
-- 🎵 Música favorita: [This Is Why We Can’t Have Nice Things](https://open.spotify.com/track/07NxDD1iKCHbAldceD7QLP?autoplay=true) ([Apple Music](https://music.apple.com/br/album/this-is-why-we-cant-have-nice-things/1445765846?i=1445766358))
+- 🎵 Música favorita: [(Spotify)](https://open.spotify.com/track/07NxDD1iKCHbAldceD7QLP?autoplay=true) ([Apple Music](https://music.apple.com/br/album/this-is-why-we-cant-have-nice-things/1445765846?i=1445766358))
 
 🇬🇧 **English**
 I am currently 16 years old (17 in a few months), and I am in the second year of high school (Year 11). My English is intermediate but I learn every day.
@@ -20,4 +20,4 @@ I am currently 16 years old (17 in a few months), and I am in the second year of
 - 👨‍💼 Pronouns: he/him
 - 🌎 Brazilian
 - 🎤 Favorite artist: Taylor Swift
-- 🎵 Favorite song: This Is Why We Can’t Have Nice Things [Spotify](https://open.spotify.com/track/07NxDD1iKCHbAldceD7QLP?autoplay=true) ([Apple Music](https://music.apple.com/br/album/this-is-why-we-cant-have-nice-things/1445765846?i=1445766358))
+- 🎵 Favorite song: This Is Why We Can’t Have Nice Things [(Spotify)](https://open.spotify.com/track/07NxDD1iKCHbAldceD7QLP?autoplay=true) ([Apple Music](https://music.apple.com/br/album/this-is-why-we-cant-have-nice-things/1445765846?i=1445766358))
