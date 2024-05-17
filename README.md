@@ -27,4 +27,11 @@ Nací en el estado de Paraná en 2007, crecí y todavía vivo aquí. Estudio en 
 - 🎤 Artista favorito: Taylor Swift
 - 🎵 Canción favorita: This Is Why We Can’t Have Nice Things ([Spotify](https://open.spotify.com/track/07NxDD1iKCHbAldceD7QLP?autoplay=true)) ([Apple Music](https://music.apple.com/br/album/this-is-why-we-cant-have-nice-things/1445765846?i=1445766358))
 
----
+## Français 🇫🇷
+Je suis né dans l'état du Paraná en 2007, j'ai grandi et j'habite toujours ici. Je suis étudiant dans l'une des meilleures écoles publiques de l'état, soit dit en passant. J'ai actuellement 16 ans (17 dans quelques mois) et je suis en deuxième année de lycée. Mon anglais est intermédiaire, mais j'apprends tous les jours.
+
+- 📚 Étudiant en Développement de Systèmes
+- 💻 Tout sur mon Git est en portugais, mais toujours facile à traduire, car ce sont des activités de base
+- 👨‍💼 Pronoms: il/lui
+- 🎤 Artiste préféré: Taylor Swift
+- 🎵 Chanson préférée: This Is Why We Can’t Have Nice Things ([Spotify](https://open.spotify.com/track/07NxDD1iKCHbAldceD7QLP?autoplay=true)) ([Apple Music](https://music.apple.com/br/album/this-is-why-we-cant-have-nice-things/1445765846?i=1445766358))
