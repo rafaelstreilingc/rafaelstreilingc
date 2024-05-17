@@ -17,3 +17,14 @@ I was born in the state of Paraná in 2007, grew up, and still live here. I stud
 - 👨‍💼 Pronouns: he/him
 - 🎤 Favorite artist: Taylor Swift
 - 🎵 Favorite song: This Is Why We Can’t Have Nice Things ([Spotify](https://open.spotify.com/track/07NxDD1iKCHbAldceD7QLP?autoplay=true)) ([Apple Music](https://music.apple.com/br/album/this-is-why-we-cant-have-nice-things/1445765846?i=1445766358))
+
+## Español 🇪🇸
+Nací en el estado de Paraná en 2007, crecí y todavía vivo aquí. Estudio en una de las mejores escuelas públicas del estado, por cierto. Actualmente tengo 16 años (17 en unos meses), estoy en el segundo año de la escuela secundaria, y mi inglés es intermedio, pero aprendo todos los días.
+
+- 📚 Estudiante de Técnico en Desarrollo de Sistemas
+- 💻 Todo en mi Git está en portugués, pero siempre es fácil de traducir, ya que son actividades básicas
+- 👨‍💼 Pronombres: él/de él
+- 🎤 Artista favorito: Taylor Swift
+- 🎵 Canción favorita: This Is Why We Can’t Have Nice Things ([Spotify](https://open.spotify.com/track/07NxDD1iKCHbAldceD7QLP?autoplay=true)) ([Apple Music](https://music.apple.com/br/album/this-is-why-we-cant-have-nice-things/1445765846?i=1445766358))
+
+---
