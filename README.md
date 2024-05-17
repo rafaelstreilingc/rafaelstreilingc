@@ -35,3 +35,21 @@ Je suis né dans l'état du Paraná en 2007, j'ai grandi et j'habite toujours ic
 - 👨‍💼 Pronoms: il/lui
 - 🎤 Artiste préféré: Taylor Swift
 - 🎵 Chanson préférée: This Is Why We Can’t Have Nice Things ([Spotify](https://open.spotify.com/track/07NxDD1iKCHbAldceD7QLP?autoplay=true)) ([Apple Music](https://music.apple.com/br/album/this-is-why-we-cant-have-nice-things/1445765846?i=1445766358))
+
+## Italiano 🇮🇹
+Sono nato nello stato del Paraná nel 2007, sono cresciuto e vivo ancora qui. Studio in una delle migliori scuole pubbliche dello stato, tra l'altro. Attualmente ho 16 anni (17 tra qualche mese) e sono al secondo anno di liceo. Il mio inglese è intermedio, ma imparo ogni giorno.
+
+- 📚 Studente Tecnico in Sviluppo di Sistemi
+- 💻 Tutto sul mio Git è in portoghese, ma sempre facile da tradurre, poiché sono attività di base
+- 👨‍💼 Pronomi: lui/lui
+- 🎤 Artista preferito: Taylor Swift
+- 🎵 Brano preferito: This Is Why We Can’t Have Nice Things ([Spotify](https://open.spotify.com/track/07NxDD1iKCHbAldceD7QLP?autoplay=true)) ([Apple Music](https://music.apple.com/br/album/this-is-why-we-cant-have-nice-things/1445765846?i=1445766358))
+
+## Deutsch 🇩🇪
+Ich wurde 2007 im Bundesstaat Paraná geboren, bin hier aufgewachsen und lebe immer noch hier. Ich besuche übrigens eine der besten öffentlichen Schulen des Bundesstaates. Ich bin derzeit 16 Jahre alt (in ein paar Monaten 17) und besuche die elfte Klasse. Mein Englisch ist intermediär, aber ich lerne jeden Tag.
+
+- 📚 Technischer Schüler in Systementwicklung
+- 💻 Alles auf meinem Git ist auf Portugiesisch, aber immer leicht zu übersetzen, da es sich um grundlegende Aktivitäten handelt
+- 👨‍💼 Pronomen: er/ihn
+- 🎤 Lieblingskünstler: Taylor Swift
+- 🎵 Lieblingslied: This Is Why We Can’t Have Nice Things ([Spotify](https://open.spotify.com/track/07NxDD1iKCHbAldceD7QLP?autoplay=true)) ([Apple Music](https://music.apple.com/br/album/this-is-why-we-cant-have-nice-things/1445765846?i=1445766358))
