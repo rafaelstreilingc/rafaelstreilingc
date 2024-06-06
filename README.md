@@ -7,7 +7,7 @@ Nasci no estado do Paraná em 2007, cresci e ainda moro aqui. Estudo em uma das 
 - 💻 Tudo no meu Git está em português, mas sempre fácil de traduzir, pois são atividades básicas
 - 👨‍💼 Pronomes: ele/dele
 - 🎤 Artista favorito: Taylor Swift
-- 🎵 Música favorita: This Is Why We Can’t Have Nice Things ([Spotify](https://open.spotify.com/track/07NxDD1iKCHbAldceD7QLP?autoplay=true)) ([Apple Music](https://music.apple.com/br/album/this-is-why-we-cant-have-nice-things/1445765846?i=1445766358))
+- 🎵 Música favorita: I Hate It Here ([Spotify](https://open.spotify.com/intl-pt/track/3hlGuz3loYoLfI3bpwieWq?autoplay=true))
 
 No curso de Técnico em Desenvolvimento de Sistemas, no ano atual (2º ano do ensino médio), eu aprendo as seguintes matérias:
 
@@ -24,7 +24,7 @@ I was born in the state of Paraná in 2007, grew up, and still live here. I stud
 - 💻 Everything on my Git is in Portuguese, but always easy to translate, as they are basic activities
 - 👨‍💼 Pronouns: he/him
 - 🎤 Favorite artist: Taylor Swift
-- 🎵 Favorite song: This Is Why We Can’t Have Nice Things ([Spotify](https://open.spotify.com/track/07NxDD1iKCHbAldceD7QLP?autoplay=true)) ([Apple Music](https://music.apple.com/br/album/this-is-why-we-cant-have-nice-things/1445765846?i=1445766358))
+- 🎵 Favorite song: I Hate It Here ([Spotify](https://open.spotify.com/intl-pt/track/3hlGuz3loYoLfI3bpwieWq?autoplay=true))
 
 In the Systems Development Technical course, in the current year (Year 11), I learn the following subjects:
 
