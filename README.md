@@ -1,49 +1,79 @@
-🇧🇷 **Sobre Mim (PT-BR)**
+# 👋 Olá! Eu sou o Rafael 👨‍💻
 
-Oi, eu sou o **Rafael**, estudante do **curso técnico em Desenvolvimento de Sistemas**, atualmente no **fim do 2º ano (novembro/2024)**.  
-Em 2025, vou atualizar para o **3º ano** desse caminho tecnológico, onde aprendo várias coisas legais, tipo:
+## 📝 Sobre Mim:
 
-- **Ciências da Computação**: muita teoria, matemática e códigos (sim, eu também sofro com isso) 💻  
-- **Análise e Projeto de Sistemas**: porque criar um sistema não é só escrever código, é um **desafio mental** 🔍  
-- **Programação Mobile**: ainda tentando entender como criar aplicativos decentes 📱  
-- **Programação Front-End**: onde tento fazer a parte visual do sistema ficar **um pouco mais bonita** (não sou designer, mas insisto) 🌐  
-- **Banco de Dados**: organizando a bagunça toda, porque no fundo, sem dados a coisa não funciona 🗄️  
+- 🎂 **Idade**: 17 anos (Eu sei, sou muito jovem para saber tudo que já sei)
+- 📚 **Escola**: No terceiro ano do **Ensino Médio**, mas adivinha? O **terceiro ano** ainda não começou. Acho que vou deixar pra estudar a matéria um pouco mais tarde. 🤔
+- 💻 **Curso Técnico**: **Técnico em Desenvolvimento de Sistemas**, porque sim, eu sou um desses jovens que já decide o futuro com 17 anos (mentira, na real nem sei se vou trabalhar com isso, mas estamos aí). 
+- 🎧 **Música**: Obviamente, eu sou **Swiftie** (fanático da Taylor Swift). Se você não entendeu a referência, sinto muito, mas a Taylor está dominando meu cérebro.
+  
+---
 
-Eu não sou um programador super experiente (ainda), então sim, **você vai me ver usando o ChatGPT** às vezes para dar aquele help. 🤖
+## 🎯 O Que Eu Estou Estudando Agora:
 
-Agora, sobre **minha vida fora do código**... a Taylor Swift é minha **musa inspiradora**. 🎤  
-Minhas músicas favoritas?  
-- *Better Man* – porque quem não ama um drama de coração partido? 💔  
-- *Wildest Dreams* – porque **todo mundo já sonhou com algo impossível**, não é? 🌟  
-
-Ah, e também sou fluente em **inglês**. Não só porque o curso exige, mas porque **adoro me comunicar em várias línguas**. 🌍
-
-Ah, e sim, sou **gen Z**, adoro **emojis** e **não sou millennial**. 🌱  
-**P.S.**: Se você achar que sou organizado, não se engane. Minha vida (e meus códigos) ainda estão uma bagunça, mas vou levando. 🤷‍♂️  
-Ah, e **coisa crua fica feio**. Não tenho paciência para isso. 😅
+**Ainda não comecei a estudar o terceiro ano**, então vou deixar esse espaço em branco. Se você voltar aqui depois, talvez eu tenha algo mais interessante para colocar aqui. 📅
 
 ---
 
-🇬🇧 **About Me (ENG)**
+## 👨‍💻 Habilidades:
 
-Hey, I’m **Rafael**, a student in the **2nd year** of a technical course in **Systems Development** (as of November 2024).  
-In 2025, I’ll update to the **3rd year** and keep learning all sorts of cool stuff, like:
+- 💻 Programação (Linguagens de programação? Talvez você veja alguma aqui em breve. Eu sei um pouquinho de Python e JavaScript.)
+- 🌐 Desenvolvimento web (pelo menos a parte de front-end eu estou dominando, backend… bom, um dia eu chego lá)
+- 🔧 Ainda estou tentando entender o que é esse negócio de "banco de dados", mas em breve estarei fazendo consultas complexas, tenho fé.
 
-- **Computer Science**: a lot of theory, math, and codes (yes, I suffer through it too) 💻  
-- **Systems Analysis and Design**: because creating a system is more than just writing code, it’s a **mental challenge** 🔍  
-- **Mobile Programming**: still figuring out how to make decent apps 📱  
-- **Front-End Programming**: where I try to make the visual part of a system look **somewhat decent** (not a designer, but I try) 🌐  
-- **Database Management**: organizing the chaos, because let’s face it, without data nothing works 🗄️  
+---
 
-I’m not a super experienced programmer (yet), so yes, **you’ll see me using ChatGPT** sometimes for that extra help. 🤖
+## 🎶 Fatos Aleatórios sobre Mim:
 
-Now, about my life outside coding... **Taylor Swift** is my **inspiration**. 🎤  
-My favorite songs?  
-- *Better Man* – because who doesn’t love a good heartbreak drama? 💔  
-- *Wildest Dreams* – because **everyone has dreamed of something impossible**, right? 🌟  
+- 🎤 Taylor Swift é minha terapeuta. Eu não só ouço as músicas dela, como as letras fazem parte da minha alma. Não tem como escapar!
+- 📖 Eu coleciono livros, mas sou especialista em deixá-los empilhados na estante. 
+- 🎮 Também gosto de jogar de vez em quando, mas sempre que a Taylor lança algo novo, é como se o universo tivesse um novo propósito (e eu esqueço de tudo por um bom tempo).
 
-Oh, and I’m also fluent in **English**. Not just because the course requires it, but because **I love communicating in more than one language**. 🌍
+---
 
-Oh, and yes, I’m **Gen Z**, I love **emojis**, and I’m definitely **not a millennial**. 🌱  
-**P.S.**: If you think I’m organized, don’t be fooled. My life (and my code) is still a mess, but hey, I’m getting by. 🤷‍♂️  
-And **raw stuff looks ugly**. I have no patience for that. 😅
+## 🌍 Encontre-me em outros lugares:
+
+- **Twitter**: [@EuRafaelG](https://twitter.com/EuRafaelG) (onde eu sou #TeamTaylorSwift, 100% do tempo)
+- **GitHub**: [rafaelstreilingc](https://github.com/rafaelstreilingc) (onde o código nunca funciona como eu espero, mas continuo tentando)
+
+---
+
+## 🇬🇧 English Version:
+
+# 👋 Hi! I'm Rafael 👨‍💻
+
+## 📝 About Me:
+
+- 🎂 **Age**: 17 (Yeah, I'm too young to know everything I already know)
+- 📚 **School**: In my **last year of High School**... but guess what? The **third year** hasn't started yet. Maybe I'll study later? 🤔
+- 💻 **Technical Course**: **Systems Development**, because, you know, I decided my whole future at 17 (just kidding, I don't even know if I'll work with this, but we'll see). 
+- 🎧 **Music**: Obviously, I'm a **Swiftie** (Taylor Swift is literally my life). If you don't get the reference, I feel sorry for you, but Taylor rules my brain.
+  
+---
+
+## 🎯 What Am I Studying Right Now:
+
+**Haven't started my third year yet**, so I'll leave this part blank. Check back in a few months, maybe I'll have something more interesting to share. 📅
+
+---
+
+## 👨‍💻 Skills:
+
+- 💻 Programming (Programming languages? Maybe you'll see some here later. I know a bit of Python and JavaScript.)
+- 🌐 Web development (At least front-end, I'm crushing it there, backend... well, one day I'll get there)
+- 🔧 Still trying to figure out this whole "database" thing, but soon I'll be doing complex queries, I swear.
+
+---
+
+## 🎶 Random Facts about Me:
+
+- 🎤 Taylor Swift is my therapist. I don't just listen to her songs, her lyrics are part of my soul. You can't escape it!
+- 📖 I collect books, but I'm an expert at letting them pile up on my shelf.
+- 🎮 I like to play video games occasionally, but whenever Taylor releases something new, it's like the universe has a new purpose (and I forget everything else for a while).
+
+---
+
+## 🌍 Find me in other places:
+
+- **Twitter**: [@EuRafaelG](https://twitter.com/EuRafaelG) (where I'm #TeamTaylorSwift, 100% of the time)
+- **GitHub**: [rafaelstreilingc](https://github.com/rafaelstreilingc) (where the code never works as expected, but I keep trying)
