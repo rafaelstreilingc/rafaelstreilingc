@@ -13,6 +13,8 @@
 
 **Ainda não comecei a estudar o terceiro ano**, então vou deixar esse espaço em branco. Se você voltar aqui depois, talvez eu tenha algo mais interessante para colocar aqui. 📅
 
+Mas, adiantando um spoiler: No final do terceiro ano, provavelmente vou mandar todo mundo tomar no c* (porque olha, aguentar essa sala e essas pessoas é um desafio, e eles também não me aguentam, então é recíproco). Mas fazer o quê, né? A gente aguenta e segue o baile. 😬
+
 ---
 
 ## 👨‍💻 Habilidades:
@@ -54,6 +56,8 @@
 ## 🎯 What Am I Studying Right Now:
 
 **Haven't started my third year yet**, so I'll leave this part blank. Check back in a few months, maybe I'll have something more interesting to share. 📅
+
+But here's a spoiler: By the end of third year, I'll probably tell everyone to "take a hike" (because honestly, surviving this class and these people is a challenge, and they don't tolerate me either, so it's mutual). But hey, what can I do? Just gotta endure and keep going. 😬
 
 ---
 
