@@ -1,8 +1,4 @@
-### README.md 🤪
-
----
-
-#### **🇧🇷 Português **
+#### **🇧🇷 Português**
 
 Olá, mundo! 🌍 Meu nome é **Rafael**, tenho **17 anos** e estou no **terceiro ano do curso técnico em Desenvolvimento de Sistemas**. Sim, eu sou aquele cara que já sabe que **chá** 🫖 é o líquido da vida (café? não, obrigado) e que o código não compila de primeira (assim como minha vida social). 😎
 
