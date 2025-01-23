@@ -1,3 +1,7 @@
+### README.md 🤪
+
+---
+
 #### **🇧🇷 Português**
 
 Olá, mundo! 🌍 Meu nome é **Rafael**, tenho **17 anos** e estou no **terceiro ano do curso técnico em Desenvolvimento de Sistemas**. Sim, eu sou aquele cara que já sabe que **chá** 🫖 é o líquido da vida (café? não, obrigado) e que o código não compila de primeira (assim como minha vida social). 😎
@@ -64,4 +68,10 @@ This year, I’ll be tackling the following subjects (yes, tackling, because it�
 
 Oh, and of course, this is a **professional course** that’s part of my high school education. So, yes, I’m multitasking: surviving math classes and still managing to code a CRUD. 💪 (Or at least trying. Sometimes the CRUD defeats me.)
 
-Besides that, I’m **obsessed** with two Taylor Swift songs: **"Is It Over Now?"** and **"Dear John"**. Yes, I’m that friend who keeps repeating "YOU ARE AN EXPERT AT SORRY" until you beg me
+Besides that, I’m **obsessed** with two Taylor Swift songs: **"Is It Over Now?"** and **"Dear John"**. Yes, I’m that friend who keeps repeating "YOU ARE AN EXPERT AT SORRY" until you beg me to stop. 🎤 (And, honestly, I’m also an expert at sorry, but only when I mess up my commits.)
+
+Anyway, that’s it. Cheers! And, of course, **screw John Mayer**. 🖕 (Sorry, not sorry. But he deserves it.)
+
+---
+
+**Fim. Ou, como diria Taylor, "This is the end of all the endings."** 🎶
