@@ -1,83 +1,75 @@
-# 👋 Olá! Eu sou o Rafael 👨‍💻
-
-## 📝 Sobre Mim:
-
-- 🎂 **Idade**: 17 anos (Eu sei, sou muito jovem para saber tudo que já sei)
-- 📚 **Escola**: No terceiro ano do **Ensino Médio**, mas adivinha? O **terceiro ano** ainda não começou. Acho que vou deixar pra estudar a matéria um pouco mais tarde. 🤔
-- 💻 **Curso Técnico**: **Técnico em Desenvolvimento de Sistemas**, porque sim, eu sou um desses jovens que já decide o futuro com 17 anos (mentira, na real nem sei se vou trabalhar com isso, mas estamos aí). 
-- 🎧 **Música**: Obviamente, eu sou **Swiftie** (fanático da Taylor Swift). Se você não entendeu a referência, sinto muito, mas a Taylor está dominando meu cérebro.
-  
----
-
-## 🎯 O Que Eu Estou Estudando Agora:
-
-**Ainda não comecei a estudar o terceiro ano**, então vou deixar esse espaço em branco. Se você voltar aqui depois, talvez eu tenha algo mais interessante para colocar aqui. 📅
-
-Mas, adiantando um spoiler: No final do terceiro ano, provavelmente vou mandar todo mundo tomar no c* (porque olha, aguentar essa sala e essas pessoas é um desafio, e eles também não me aguentam, então é recíproco). Mas fazer o quê, né? A gente aguenta e segue o baile. 😬
+### README.md 🤪
 
 ---
 
-## 👨‍💻 Habilidades:
+#### **🇧🇷 Português Brasileiro**
 
-- 💻 Programação (Linguagens de programação? Talvez você veja alguma aqui em breve. Eu sei um pouquinho de Python e JavaScript.)
-- 🌐 Desenvolvimento web (pelo menos a parte de front-end eu estou dominando, backend… bom, um dia eu chego lá)
-- 🔧 Ainda estou tentando entender o que é esse negócio de "banco de dados", mas em breve estarei fazendo consultas complexas, tenho fé.
+Olá, mundo! 🌍 Meu nome é **Rafael**, tenho **17 anos** e estou no **terceiro ano do curso técnico em Desenvolvimento de Sistemas**. Sim, eu sou aquele cara que já sabe que **chá** 🫖 é o líquido da vida (café? não, obrigado) e que o código não compila de primeira (e tá tudo bem). 😎
 
----
+Esse ano, vou enfrentar as seguintes matérias (sim, enfrentar, porque nem tudo são flores 🌸):
 
-## 🎶 Fatos Aleatórios sobre Mim:
+- **Programação no Desenvolvimento de Sistemas** 💻  
+  (Tradução: "Vou chorar, mas vou aprender.")
 
-- 🎤 Taylor Swift é minha terapeuta. Eu não só ouço as músicas dela, como as letras fazem parte da minha alma. Não tem como escapar!
-- 📖 Eu coleciono livros, mas sou especialista em deixá-los empilhados na estante. 
-- 🎮 Também gosto de jogar de vez em quando, mas sempre que a Taylor lança algo novo, é como se o universo tivesse um novo propósito (e eu esqueço de tudo por um bom tempo).
+- **Programação Mobile** 📱  
+  (Porque o mundo precisa de mais apps que você usa uma vez e nunca mais abre.)
 
----
+- **Programação Back-End** 🖥️  
+  (Onde a mágica acontece... ou dá erro 500.)
 
-## 🌍 Encontre-me em outros lugares:
+- **Computação Gráfica** 🎨  
+  (Porque quem não gosta de umas cores e uns pixels bonitos?)
 
-- **Twitter**: [@EuRafaelG](https://twitter.com/EuRafaelG) (onde eu sou #TeamTaylorSwift, 100% do tempo)
-- **GitHub**: [rafaelstreilingc](https://github.com/rafaelstreilingc) (onde o código nunca funciona como eu espero, mas continuo tentando)
+- **Ciências de Dados** 📊  
+  (Onde os dados falam, e a gente tenta entender o que eles tão dizendo.)
 
----
+- **Banco de Dados** 🗄️  
+  (SELECT * FROM vida WHERE felicidade = true;)
 
-## 🇬🇧 English Version:
+- **Análise e Projeto de Sistemas** 📝  
+  (Basicamente, a arte de pensar demais antes de começar a codar.)
 
-# 👋 Hi! I'm Rafael 👨‍💻
+Ah, e claro, esse curso é **profissionalizante** e faz parte do meu ensino médio. Então, sim, eu sou multitarefa: sobrevivo às aulas de matemática e ainda faço um CRUD. 💪
 
-## 📝 About Me:
+Fora isso, estou **viciado** em duas músicas da Taylor Swift: **"Is It Over Now?"** e **"Dear John"**. Sim, eu sou aquele amigo que fica repetindo "YOU ARE AN EXPERT AT SORRY" até você pedir pra parar. 🎤
 
-- 🎂 **Age**: 17 (Yeah, I'm too young to know everything I already know)
-- 📚 **School**: In my **last year of High School**... but guess what? The **third year** hasn't started yet. Maybe I'll study later? 🤔
-- 💻 **Technical Course**: **Systems Development**, because, you know, I decided my whole future at 17 (just kidding, I don't even know if I'll work with this, but we'll see). 
-- 🎧 **Music**: Obviously, I'm a **Swiftie** (Taylor Swift is literally my life). If you don't get the reference, I feel sorry for you, but Taylor rules my brain.
-  
----
-
-## 🎯 What Am I Studying Right Now:
-
-**Haven't started my third year yet**, so I'll leave this part blank. Check back in a few months, maybe I'll have something more interesting to share. 📅
-
-But here's a spoiler: By the end of third year, I'll probably tell everyone to "take a hike" (because honestly, surviving this class and these people is a challenge, and they don't tolerate me either, so it's mutual). But hey, what can I do? Just gotta endure and keep going. 😬
+Enfim, é isso. Tchau! E, claro, **pau no cu do John Mayer**. 🖕 (Desculpa, não desculpa.)
 
 ---
 
-## 👨‍💻 Skills:
+#### **🇬🇧 British English**
 
-- 💻 Programming (Programming languages? Maybe you'll see some here later. I know a bit of Python and JavaScript.)
-- 🌐 Web development (At least front-end, I'm crushing it there, backend... well, one day I'll get there)
-- 🔧 Still trying to figure out this whole "database" thing, but soon I'll be doing complex queries, I swear.
+Hello, world! 🌍 My name is **Rafael**, I’m **17 years old**, and I’m in the **third year of a technical course in Systems Development**. Yes, I’m that guy who already knows that **tea** 🫖 is the liquid of life (coffee? no, thanks) and that code never compiles on the first try (and that’s okay). 😎
+
+This year, I’ll be tackling the following subjects (yes, tackling, because it’s not all sunshine and rainbows 🌈):
+
+- **Programming in Systems Development** 💻  
+  (Translation: "I’ll cry, but I’ll learn.")
+
+- **Mobile Programming** 📱  
+  (Because the world needs more apps that you use once and never open again.)
+
+- **Back-End Programming** 🖥️  
+  (Where the magic happens... or throws a 500 error.)
+
+- **Computer Graphics** 🎨  
+  (Because who doesn’t like pretty colors and pixels?)
+
+- **Data Science** 📊  
+  (Where data talks, and we try to understand what it’s saying.)
+
+- **Database** 🗄️  
+  (SELECT * FROM life WHERE happiness = true;)
+
+- **Systems Analysis and Design** 📝  
+  (Basically, the art of overthinking before you start coding.)
+
+Oh, and of course, this is a **professional course** that’s part of my high school education. So, yes, I’m multitasking: surviving math classes and still managing to code a CRUD. 💪
+
+Besides that, I’m **obsessed** with two Taylor Swift songs: **"Is It Over Now?"** and **"Dear John"**. Yes, I’m that friend who keeps repeating "YOU ARE AN EXPERT AT SORRY" until you beg me to stop. 🎤
+
+Anyway, that’s it. Cheers! And, of course, **screw John Mayer**. 🖕 (Sorry, not sorry.)
 
 ---
 
-## 🎶 Random Facts about Me:
-
-- 🎤 Taylor Swift is my therapist. I don't just listen to her songs, her lyrics are part of my soul. You can't escape it!
-- 📖 I collect books, but I'm an expert at letting them pile up on my shelf.
-- 🎮 I like to play video games occasionally, but whenever Taylor releases something new, it's like the universe has a new purpose (and I forget everything else for a while).
-
----
-
-## 🌍 Find me in other places:
-
-- **Twitter**: [@EuRafaelG](https://twitter.com/EuRafaelG) (where I'm #TeamTaylorSwift, 100% of the time)
-- **GitHub**: [rafaelstreilingc](https://github.com/rafaelstreilingc) (where the code never works as expected, but I keep trying)
+**Fim. Ou, como diria Taylor, "This is the end of all the endings."** 🎶
